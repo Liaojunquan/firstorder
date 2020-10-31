@@ -1,0 +1,1 @@
+pip install cffi cloudpickle cycler dask decorator imageio kiwisolver matplotlib networkx numpy pandas Pillow pycparser pygit pyparsing python-dateutil pytz PyWavelets PyYAML scikit-image scikit-learn scipy six toolz tqdm imageio-ffmpeg torchvision==0.2.1 -i https://pypi.tuna.tsinghua.edu.cn/simple some-package

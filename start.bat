@@ -1,0 +1,1 @@
+python demo.py --config config\vox-adv-256.yaml --driving_video path\to\driving\512.mp4 --source_image path\to\source\3.png --checkpoint path\to\checkpoint\vox-adv-cpk.pth.tar --relative --adapt_scale
